@@ -1,8 +1,9 @@
 package main
 
-import "fmt"
-
+import (
+	"github.com/JxavierP/go-dsa/data_structures"
+)
 
 func main()  {
-	fmt.Println("Hello World")
+	datastructures.Arrays()
 }
